@@ -1,4 +1,4 @@
-FROM node:latest
+FROM 511914651445.dkr.ecr.us-west-2.amazonaws.com/yh-test-ecr
 
 WORKDIR /usr/src/app
 
