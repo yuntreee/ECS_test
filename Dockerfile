@@ -1,4 +1,4 @@
-FROM node:carbon
+FROM node:alphine
 
 WORKDIR /usr/src/app
 
