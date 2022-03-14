@@ -3,7 +3,7 @@ const app = express();
 const PORT = 8080;
 
 app.get('/', (req, res) => {
-    res.send('<h1 style="color:green;">ECS Pipeline Test Modified Again</h1>\n');
+    res.send('<h1 style="color:green;">ECS Pipeline Test Updated</h1>\n');
 });
 
 
